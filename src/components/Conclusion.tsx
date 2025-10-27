@@ -130,9 +130,14 @@ export function Conclusion() {
               <button className="px-6 py-3 bg-cyan-500 hover:bg-cyan-600 text-white rounded-lg transition-colors">
                 Start Quiz
               </button>
-              <button className="px-6 py-3 bg-slate-700 hover:bg-slate-600 text-white rounded-lg transition-colors">
-                Learn More
-              </button>
+              <a
+                href="https://www.canva.com/design/DAG3Al0rogY/qWX5Ky2SyVsxMIcCH-9RYA/view?utm_content=DAG3Al0rogY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h66d5e6a652"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-3 bg-slate-700 hover:bg-slate-600 text-white rounded-lg transition-colors inline-block"
+              >
+                Check Out Presentation
+              </a>
             </div>
           </Card>
         </div>
