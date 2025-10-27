@@ -19,38 +19,6 @@ export function Footer() {
             </p>
           </div>
 
-          {/* Quick Links */}
-          <div>
-            <h4 className="text-white mb-4">Quick Links</h4>
-            <ul className="space-y-2 text-sm text-slate-400">
-              <li>
-                <a href="#introduction" className="hover:text-cyan-400 transition-colors">
-                  Introduction
-                </a>
-              </li>
-              <li>
-                <a href="#threats" className="hover:text-cyan-400 transition-colors">
-                  Cyber Threats
-                </a>
-              </li>
-              <li>
-                <a href="#protection" className="hover:text-cyan-400 transition-colors">
-                  Data Protection
-                </a>
-              </li>
-              <li>
-                <a href="#transactions" className="hover:text-cyan-400 transition-colors">
-                  Online Transactions
-                </a>
-              </li>
-              <li>
-                <a href="#legal" className="hover:text-cyan-400 transition-colors">
-                  Legal & Ethics
-                </a>
-              </li>
-            </ul>
-          </div>
-
           {/* Resources */}
           <div>
             <h4 className="text-white mb-4">Resources</h4>
